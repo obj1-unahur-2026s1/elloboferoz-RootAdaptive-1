@@ -1,8 +1,9 @@
-object feroz {
+object feroz{ 
   var peso = 10 
+  method peso(){return peso}
 
   method esta_saludable(){
-    return 20 <= peso <= 150 
+    return peso >= 20 && peso <= 150 
   }
 
   method sufre_una_crisis(){
@@ -14,7 +15,7 @@ object feroz {
   }
 
   method corre(){
-    peso = peso - 1
+    peso = peso - 1  
   }
   
 }
