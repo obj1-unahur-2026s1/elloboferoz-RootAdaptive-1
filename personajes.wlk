@@ -37,8 +37,8 @@ object cazador{
 
     method peso(){return peso}
 
-    method hablar_sobre_colesterol_malo(lobo){
-        lobo.sufre_una_crisis()
+    method hablar_sobre_colesterol_malo(personaje){
+        personaje.sufre_una_crisis()
     }
 }
 

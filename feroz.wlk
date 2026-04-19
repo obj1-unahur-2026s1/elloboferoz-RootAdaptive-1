@@ -17,5 +17,6 @@ object feroz{
   method corre(){
     peso = peso - 1  
   }
-  
+
+  method hablar_con(personaje){}
 }
