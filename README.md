@@ -25,6 +25,6 @@ El lobo va corriendo hasta el bosque. Allí se encuentra con Caperucita, convers
 
 5. Averiguar cómo queda de saludable el lobo en los diferentes finales posibles. 
 
-<img src="Version de la historia.jpg"  width="600" height="400" />
+![version 1](.VersionDeLaHistoria/.jpg)
 
-<img src="Version de la historia2.jpg"  width="600" height="400" />
+![version 1](.VersionDeLaHistoria2/.jpg)
