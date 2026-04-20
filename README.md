@@ -27,4 +27,4 @@ El lobo va corriendo hasta el bosque. Allí se encuentra con Caperucita, convers
 
 ![version 1](.VersionDeLaHistoria/.jpg)
 
-![version 1](.VersionDeLaHistoria2/.jpg)
+![version 2](.VersionDeLaHistoria2/.jpg)
